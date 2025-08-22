@@ -1,6 +1,7 @@
 PyTorch Quantizer
 
 Naive uniform quantization of a float tensor to a given bit-width.
+A public and small/intro subset of inference work I did at untether.ai
     
     Args:
         tensor (torch.Tensor): Input float tensor.
